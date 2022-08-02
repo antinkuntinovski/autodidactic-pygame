@@ -145,3 +145,4 @@ pygame.quit()
 #düşman dosta yaklaşacak iki durum oluşacak ya sıkışacak veya hedefe ulaşacak
 #her iki durumda da oyun baştan başlayacak
 game=Game()
+asd
