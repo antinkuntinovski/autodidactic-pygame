@@ -1,3 +1,1 @@
-import pygame
-
-pygame.init()
+deneme
